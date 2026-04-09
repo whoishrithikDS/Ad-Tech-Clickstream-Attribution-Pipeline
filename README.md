@@ -88,4 +88,5 @@ Storage: Amazon S3 (Parquet)
 Query Engine: Amazon Athena
 Orchestration: Apache Airflow (Docker)
 Languages: Python, SQL
-Integration: REST APIs
+Integration: REST APIs..
+
